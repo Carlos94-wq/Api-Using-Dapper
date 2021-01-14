@@ -1,0 +1,9 @@
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\bin\Debug\netstandard2.0\Usuarios.Core.deps.json
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\bin\Debug\netstandard2.0\Usuarios.Core.dll
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\bin\Debug\netstandard2.0\Usuarios.Core.pdb
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\obj\Debug\netstandard2.0\Usuarios.Core.csprojAssemblyReference.cache
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\obj\Debug\netstandard2.0\Usuarios.Core.AssemblyInfoInputs.cache
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\obj\Debug\netstandard2.0\Usuarios.Core.AssemblyInfo.cs
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\obj\Debug\netstandard2.0\Usuarios.Core.csproj.CoreCompileInputs.cache
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\obj\Debug\netstandard2.0\Usuarios.Core.dll
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Core\obj\Debug\netstandard2.0\Usuarios.Core.pdb

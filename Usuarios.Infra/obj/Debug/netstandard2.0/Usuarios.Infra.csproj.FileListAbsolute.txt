@@ -1,0 +1,12 @@
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\bin\Debug\netstandard2.0\Usuarios.Core.dll
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.csprojAssemblyReference.cache
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.AssemblyInfoInputs.cache
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.AssemblyInfo.cs
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\bin\Debug\netstandard2.0\Usuarios.Infra.deps.json
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\bin\Debug\netstandard2.0\Usuarios.Infra.dll
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\bin\Debug\netstandard2.0\Usuarios.Infra.pdb
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\bin\Debug\netstandard2.0\Usuarios.Core.pdb
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.csproj.CopyComplete
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.dll
+C:\Users\Charly\Documents\Apis\Usuarios\Usuarios.Infra\obj\Debug\netstandard2.0\Usuarios.Infra.pdb
