@@ -28,6 +28,7 @@ namespace Usuarios.Api
         {
             services.AddContext(Configuration);
             services.AddServices();
+            services.AddCors();
             services.AddControllers().AddNewtonsoftJson(options =>
             {
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
@@ -46,6 +47,9 @@ namespace Usuarios.Api
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
+            app.UseCors(
+                builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()
+            );
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

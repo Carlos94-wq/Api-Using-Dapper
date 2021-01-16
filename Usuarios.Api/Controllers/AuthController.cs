@@ -26,7 +26,14 @@ namespace Usuarios.Api.Controllers
         public async Task<IActionResult> LogIn([FromBody] UserCredentials user)
         {
             var usuario = await this.respository.Login(user);
-            var response = new ApiResponse<Usuario>(usuario);
+            var LogUser = new
+            {
+                Nombre = usuario.Nombre + " " + usuario.Apellidos,
+                Cuenta = usuario.Correo,
+                Rol = usuario.Rol.IdRol
+            };
+
+            var response = new ApiResponse<object>(LogUser);
 
             return Ok(response);
         }
